@@ -11,7 +11,7 @@
 			<string>com.ChatDemoFirebase</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.107334788034-ppecbpqb71376nc8dps0d1el3mhoclol</string>
+				<string>REPLACE_YOUR_OWN_REVERSED_KEY</string>
 			</array>
 		</dict>
 	</array>
